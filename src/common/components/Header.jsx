@@ -1,4 +1,3 @@
-import React from "react";
 import {
   ShippingIcon,
   CartIcon,
@@ -76,7 +75,7 @@ const Header = () => {
             </ul>
           </div>
           <div>
-            <p>Need help? Call Us: +91 01234 56789</p>
+            <p className="text-white">Need help? Call Us: +91 01234 56789</p>
           </div>
         </div>
       </div>

@@ -1,5 +1,6 @@
-import React from "react";
 import Header from "../common/components/Header";
+import Footer from "../common/components/Footer";
+
 
 const index = () => {
   return (
@@ -91,6 +92,7 @@ const index = () => {
           </div>
         </div>
       </div>
+      <Footer/>
     </>
   );
 };

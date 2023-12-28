@@ -7,6 +7,7 @@ export default {
       secondary: "#F55F1E",
       transparent: "transparent",
       white: "#ffffff",
+      black: "#000",
       oliveGreen: {
         100: "#EDF1EE",
         200: "#7B7B7B",
