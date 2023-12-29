@@ -4,6 +4,7 @@ import {
   HeartIcon,
   ProfileIcon,
   SearchIcon,
+  Logo,
 } from "../../assets/Svg";
 
 const Header = () => {
@@ -33,7 +34,7 @@ const Header = () => {
       <div className="container mx-auto">
         <div className="flex justify-between items-center py-5">
           <div>
-            <h3>E-Commerce</h3>
+              <Logo/>
           </div>
           <div className="relative">
             <input
